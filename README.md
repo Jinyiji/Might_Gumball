@@ -12,6 +12,8 @@
 
 ![마이티검볼](https://user-images.githubusercontent.com/73942023/180127747-a7a01e1f-e029-42a6-ae50-80b81ebfa352.png)
 
+# 업로드 된 링크
+http://jinyiji.ivyro.net/mightgumball/
 
 # 기간
 2022.05.20 ~ 2022.06.03 <br>
